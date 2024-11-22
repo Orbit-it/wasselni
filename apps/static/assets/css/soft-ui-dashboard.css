@@ -18173,7 +18173,7 @@ textarea.form-control-lg {
   overflow: hidden;
   display: flex;
   align-items: center;
-  background-size: cover;
+  background-size:contain;
   background-position: 50%;
 }
 .page-header .container {
